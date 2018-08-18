@@ -43,7 +43,7 @@ export const robots = [
   },
   {
     id: 8,
-    name: 'Nicholas Runolfsdottir V',
+    name: 'Nicholas Runolf',
     username: 'Maxime_Nienow',
     email: 'Sherwood@rosamond.me'
   },
@@ -55,7 +55,7 @@ export const robots = [
   },
   {
     id: 10,
-    name: 'Clementina DuBuque',
+    name: 'Clementina DuBu',
     username: 'Moriah.Stanton',
     email: 'Rey.Padberg@karina.biz'
   }
